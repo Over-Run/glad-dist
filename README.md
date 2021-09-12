@@ -1,2 +1,2 @@
 # glad-dist
-Linked library for GLAD.
+Linked library for Glad 2.
