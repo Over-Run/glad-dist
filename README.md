@@ -26,7 +26,7 @@ Linked library for Glad 2.
 
 ### gcc-x64
 
-[Static](gcc-x64/libglad2.a)
+[Static](gcc-x64/libglad2.a)  
 [Dynamic](gcc-x64/libglad2.so)
 
 # gl-dist
