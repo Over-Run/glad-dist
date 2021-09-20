@@ -4,15 +4,15 @@ Linked library for Glad 2.
 
 ## Distributions
 
-### gcc-x64
+### mingw-w64
 
-[Static](gcc-x64/libglad2.a)  
-[Dynamic](gcc-x64/libglad2.so)
+[Static](mingw-w64/libglad2.a)  
+[Dynamic](mingw-w64/libglad2.so)
 
-### gcc-x86
+### mingw-w64-x86
 
-[Static](gcc-x86/libglad2.a)  
-[Dynamic](gcc-x86/libglad2.so)
+[Static](mingw-w64-x86/libglad2.a)  
+[Dynamic](mingw-w64-x86/libglad2.so)
 
 ### msvc-x64
 
@@ -24,21 +24,26 @@ Linked library for Glad 2.
 [Static](msvc-x86/glad2.lib)  
 [Dynamic](msvc-x86/glad2.dll)
 
+### gcc-x64
+
+[Static](gcc-x64/libglad2.a)
+[Dynamic](gcc-x64/libglad2.so)
+
 # gl-dist
 
 Linked library for Glad 2 and Glfw 3.
 
 ## Distributions
 
-### gcc-x64
+### mingw-w64
 
-[Static](gcc-x64/libgl.a)  
-[Dynamic](gcc-x64/libgl.so)
+[Static](mingw-w64/libgl.a)  
+[Dynamic](mingw-w64/libgl.so)
 
-### gcc-x86
+### mingw-w64-x86
 
-[Static](gcc-x86/libgl.a)  
-[Dynamic](gcc-x86/libgl.so)
+[Static](mingw-w64-x86/libgl.a)  
+[Dynamic](mingw-w64-x86/libgl.so)
 
 ### msvc-x64
 
